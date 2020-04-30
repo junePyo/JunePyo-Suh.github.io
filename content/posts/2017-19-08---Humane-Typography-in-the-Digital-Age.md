@@ -10,13 +10,13 @@ tags:
   - "HTML"
   - "CSS"
   - "Web Development"
-description: "An Essay on Typography by Eric Gill takes the reader back to the year 1930. The year when a conflict between two worlds came to its term. The machines of the industrial world finally took over the handicrafts."
+description: "CSS position property helps designing element layout. Four different kinds of positions are static, fixed, absolute, and relative. By default, all blocks are in position:static. Any new element will be positioned “according to the normal flow of the page.”"
 socialImage: "/media/42-line-bible.jpg"
 ---
 
-- [Position Property](##Position-Property)
-- [Inline vs Inline-block vs Block](##Inline-vs-Inline-block-vs-Block)
-- [Float](##Float)
+- [Position Property](#Position-Property)
+- [Inline vs Inline-block vs Block](#Inline-vs-Inline-block-vs-Block)
+- [Float](#Float)
 
 ## Position Property
 4 different kinds of positions: static, fixed, absolute, relative
